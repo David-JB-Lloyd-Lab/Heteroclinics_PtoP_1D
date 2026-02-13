@@ -1,5 +1,5 @@
 # Heteroclinics_PtoP_1D
-Matlab codes to reproduce results in "Heteroclinic connections between finite-amplitude periodic orbits emerging from a codimension two singularity" by T.J. Bridges, D.J.B. Lloyd, D.J. Ratliff, and P. Sprenger
+Matlab codes to reproduce results in "Heteroclinic connections between finite-amplitude periodic orbits emerging from a codimension two singularity" by T.J. Bridges, D.J.B. Lloyd, D.J. Ratliff, and P. Sprenger. ArXiv link to preprint: https://arxiv.org/abs/2602.05680
 
 Numerical continuation codes use the following repository
 - Daniele Avitabile’s continuation-spatially-extended-systems-tutorial: DOI 10.5281/zenodo.3821163 - https://zenodo.org/records/3821169
